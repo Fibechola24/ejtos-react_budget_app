@@ -14,3 +14,5 @@ The starter files were forked from ejtos-react_budget_spp
 + ExpenseTotal (Spent so far)
 + Remaining
 + AllocationForm
+
+All of these components will be using redux for state management through AppContext.js.
